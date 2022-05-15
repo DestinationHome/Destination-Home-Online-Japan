@@ -42,7 +42,7 @@
 
 # Brief Synopsis:
 
-NEED TO FIX
+初代PS3®および[RPCS3](https://rpcs3.net/)®で[PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home)をオンライン体験するための公式ガイドへようこそ。[Github](https://github.com/DestinationHome/Destination-Home-Online/discussions) の Discussions) ページでは、コミュニティマネージャー [**Figment**](https://github.com/PSHFigment) が Home のアップデートに関する最新情報を掲載しています。PlayStation®Homeに関連するすべての事柄について、このレポのために包括的な構成[Wikiシステム](https://github.com/DestinationHome/Destination-Home-Online/wiki)を作成し、ユーザーの皆様がどのようにサービスにアクセスできるかを記録しています。
 
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)

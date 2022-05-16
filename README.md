@@ -3,27 +3,27 @@
 ![PlayStationAHome](https://user-images.githubusercontent.com/67494727/168483046-53445c38-b2c7-4a9a-b4f7-f219c4c4142d.png)
 
 <p align="center">
-  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/%E4%B8%8D%E5%8D%94%E5%92%8C-Destination%20Home-%235865F2"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
+        <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online-Japan" /></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/stargazers">
-         <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online"
+         <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online-Japan?style=social"
             alt="Github Star Tracker"></a>
   <a href="https://twitter.com/destinpshome?lang=en">
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
              alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
-        <img src="https://img.shields.io/badge/Follow%20us%20on-Twitch-8048fa"
+        <img src="https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89-Twitch-8048fa"
             alt="Follow us on Twitch"></a>
          <a href="https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ">
-        <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
+        <img src="https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89-YouTube-ff0000"
             alt="Follow us on YouTube"></a>
            <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
-        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
+        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20%E9%80%81%E4%BF%A1%E5%85%88%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AFDNS%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A7%E3%81%99%3A%20%7C%20%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%82%92%E5%8F%82%E7%85%A7%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82-0995d3"
             alt="🌐 Destination Home Public DNS Setting: | Get Started by following our quick-start guide"></a>
              <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
-            alt="PlayStation Home Cache Extraction Guide"></a>
+            alt="https://img.shields.io/badge/-PlayStation%20Home%20%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E6%8A%BD%E5%87%BA%E3%82%AC%E3%82%A4%E3%83%89-003247"></a>
   
 私たちは、ゲーム史の保存と教育のために、[PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home)の本来のオンライン機能を回復させることを目的としたチームです。[PlayStation®Home](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)のキャッシュデータは、こちらから寄付することができます。  
   
@@ -33,9 +33,9 @@
   
 - このREADMEページを他の言語で見るには、私たちの特別な貢献者/モデレーション・チームによって翻訳された、次のサポートされている言語があります。
   
-   - [Italian]()
-   - [French]()
-   - [Japanese]()
+   - [イングリッシュ](https://github.com/DestinationHome/Destination-Home-Online)
+   - [フレンチ](https://github.com/DestinationHome/Destination-Home-Online-French)
+   - [イタリアン]()
   
  ℹ️ | 開発中のコミュニティをサポートするためにこのREADMEページを翻訳したいユーザーは、[Twitter](https://twitter.com/NagatoRevenge)を通して私に連絡してください！詳細はこちら
 :---: | :---  

@@ -52,7 +52,7 @@
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
 
-<h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
+<h1 align="center">📖 目次｜デスティネーションホーム・オンラインWiki  📖</h1>
 
 <p align="center">
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A0-%7C-Disclaimers">
@@ -113,7 +113,7 @@
         <img src="https://img.shields.io/badge/-Legal%20Information-29190f"
             alt="Legal Information"></a>
 
-# Quickstart: 
+# クイックスタート: 
 
 To keep this README.md file concise & straight forward I decided to make an official このREADME.mdファイルを簡潔で分かりやすくするために、公式の専用[wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki)を作成し、私たちのカスタムサーバーソリューションでユーザーがPlayStation®Homeにオンラインアクセスする方法を完全に記述することに決めました。最新のオンラインクライアントのビルドをダウンロードするには、リリースページ[ここ](https://github.com/DestinationHome/Destination-Home-Online/releases)を参照してください。以下は、このプロセスに必要な最小要件です。
 

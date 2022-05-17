@@ -1,6 +1,6 @@
 # <h1 align="center">**Destination Home Online × PlayStation®Home へようこそ! | WIP**</h1>
 
-![PlayStationAHome](https://user-images.githubusercontent.com/67494727/168483046-53445c38-b2c7-4a9a-b4f7-f219c4c4142d.png)
+![NPIA00005_screenshot_2022_05_17_12_49_10](https://user-images.githubusercontent.com/67494727/168877860-6d00ee72-7208-463a-8a4f-315866167a1c.png)
 
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/%E4%B8%8D%E5%8D%94%E5%92%8C-Destination%20Home-%235865F2"></a>

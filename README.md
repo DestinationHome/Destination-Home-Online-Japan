@@ -35,7 +35,7 @@
   
    - [イングリッシュ](https://github.com/DestinationHome/Destination-Home-Online)
    - [フレンチ](https://github.com/DestinationHome/Destination-Home-Online-French)
-   - [イタリアン]()
+   - [イタリアン](https://github.com/DestinationHome/Destination-Home-Online-Italy)
   
  ℹ️ | 開発中のコミュニティをサポートするためにこのREADMEページを翻訳したいユーザーは、[Twitter](https://twitter.com/NagatoRevenge)を通して私に連絡してください！詳細はこちら
 :---: | :---  
